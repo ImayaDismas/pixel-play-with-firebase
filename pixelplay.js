@@ -1,6 +1,6 @@
 // Filename: public/pixelplay.js
 
-var FIREBASE_ENDPOINT = '';
+var FIREBASE_ENDPOINT = 'https://pixelplay.firebaseio.com/#-K8b2vhJm_HHMaPcqc8E|e7f1949479fe85abc6abcff0a0b6db2d';
 
 angular.module('PixelPlayApp', ['firebase', 'ngRoute'])
 .config(['$routeProvider', function($routeProvider) {
